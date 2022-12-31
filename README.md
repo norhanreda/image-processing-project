@@ -8,11 +8,11 @@ An innovative approach for calculators in proctored online exams where camera is
 <p>
   you need to use anacond to run the notebook 
   Installation:
-On Windows: Just install Anaconda.
+<h6>On Windows: Just install Anaconda. </h6>
 <a href="https://docs.anaconda.com/anaconda/install/windows/">https://docs.anaconda.com/anaconda/install/windows/</a>
-On Linux:
+<h6>On Linux:</h6>
 <a href="https://docs.anaconda.com/anaconda/install/linux/">https://docs.anaconda.com/anaconda/install/linux/</a>
-Verify installation:
+<h6>Verify installation:</h6>
 <a href="https://docs.anaconda.com/anaconda/install/verify-install/">https://docs.anaconda.com/anaconda/install/verify-install/ </a>
 
   <hr>
