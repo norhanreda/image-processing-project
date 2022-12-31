@@ -18,11 +18,12 @@ An innovative approach for calculators in proctored online exams where camera is
   <hr>
   <h6>install opencv on anaconda </h6>
   <p>from anaconda prompt write this comands </p>
-  <p>conda update anaconda-navigator </p>
-  <p>conda update navigator-updater </p>
+  <ul>
+  <li>conda update anaconda-navigator </li>
+  <li>conda update navigator-updater </li>
   
-   <p>pip install opencv-python </p>
-
+   <li>pip install opencv-python </li>
+   </ul>
 
   <h2>How to run  </h2>
     
