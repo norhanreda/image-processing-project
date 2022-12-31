@@ -27,7 +27,7 @@ An innovative approach for calculators in proctored online exams where camera is
 
   <h2>How to run  </h2>
     
-    you can run the notebook that is called project.ipynp using vscode or using Jupyter Notebook but i prefer using vscode :)
+    you can run the notebook that is called project.ipynp using vscode or using Jupyter Notebook but I prefer using vscode :)
 ### Contributors <a name = "Contributors"></a>
 <table>
   <tr>
