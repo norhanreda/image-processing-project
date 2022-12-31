@@ -16,12 +16,17 @@ An innovative approach for calculators in proctored online exams where camera is
 <a href="https://docs.anaconda.com/anaconda/install/verify-install/">https://docs.anaconda.com/anaconda/install/verify-install/ </a>
 
   <hr>
-pip install opencv-python
+  <h6>install opencv on anaconda </h6>
+  <p>from anaconda prompt write this comands </p>
+  <p>conda update anaconda-navigator </p>
+  <p>conda update navigator-updater </p>
+  
+   <p>pip install opencv-python </p>
 
 
   <h2>How to run  </h2>
     
-    you can run the notebook that is called project.ipynp
+    you can run the notebook that is called project.ipynp using vscode or using Jupyter Notebook but i prefer using vscode :)
 ### Contributors <a name = "Contributors"></a>
 <table>
   <tr>
